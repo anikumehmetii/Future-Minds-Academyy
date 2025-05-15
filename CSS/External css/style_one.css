@@ -1,0 +1,20 @@
+h1{
+    background-color: beige;
+    color: black;
+    width: 200px;
+}
+h2{
+    background-color: aquamarine;
+    color: blue;
+    width: 200px;
+}
+h3{
+    background-color: blueviolet;
+    color: rgb(0, 255, 47);
+    width: 200px;
+}
+p{
+    background-color: greenyellow;
+    color: yellow;
+    width: 200px;
+}
