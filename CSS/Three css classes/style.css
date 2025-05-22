@@ -1,0 +1,21 @@
+.light{
+    background: gold;
+    color: aqua;
+}
+
+.black{
+    background: rgb(111, 111, 110);
+    color: rgb(16, 43, 43);
+}
+.old{
+    background: rgb(255, 241, 160);
+    color: rgb(129, 148, 148);
+}
+.new{
+    background: rgb(174, 142, 200);
+    color: rgb(255, 255, 255);
+}
+.young{
+    background: rgba(146, 157, 47, 0.012);
+    color: aqua;
+}
