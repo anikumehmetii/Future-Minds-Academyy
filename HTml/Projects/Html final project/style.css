@@ -1,0 +1,60 @@
+body{
+    background-image: url(grenn.jpg);
+    margin: 1em 10% 0 10%;
+}
+nav{
+    padding-left: 500px;
+}
+nav h1{
+    background-color: chartreuse;
+    width: 200px;
+}
+nav a{
+    background-color: chartreuse;
+    width: 200px;
+    border-radius: 5px;
+}
+nav h1:hover{
+    background-color: green;
+    color: aliceblue;
+}
+nav a:hover{
+    background-color: green;
+    color: aliceblue;
+}
+section{
+    background-color: #39a910;
+    border-radius: 20px;
+}
+section:hover{
+    background-color: green;
+    color: bisque;
+    border: 3px solid black;
+}
+footer{
+    background-color: #00FF00;
+    border-radius: 5%;
+    padding: 1%;
+}
+.about{
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+}
+.ph{
+    width: 75%
+}
+input,textarea{
+background-color: blueviolet;
+border-radius: 10px;
+}
+.cnt{
+text-align: center;
+background-color: #00FF00;
+color: blue;
+}
+.contact{
+text-align: center;
+}
+
